@@ -26,3 +26,4 @@ build:
   tools:
     python: "3.14"
     nodejs: "20"
+ 
